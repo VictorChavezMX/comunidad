@@ -46,7 +46,7 @@ NOTA*. Entre paréntesis se anota el alias del usuario en [Slack](https://phpmx.
 
 * Dafne (Daffyta)
 
-* Victor (TheKingOfBongo)
+* Victor (VictorChavezMX)
 
 * David (jelidleon)
 
